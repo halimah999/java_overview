@@ -50,6 +50,16 @@ Before talking about difference between c++ and Java I will talk about plugin an
 > - Access to this memory is fast when compared to heap memory.
 > - This memory is threadsafe, as each thread operates in its own stack
 
+> ### Heap
+> - Heap space is used for the dynamic memory allocation of Java objects and JRE   classes at runtime. 
+> - New objects are always created in heap space, and the references to these objects are stored in stack memory.
+> - We can break this memory model down into smaller parts, called generations, which are:
+>
+>    - **Young Generation** : this is where all new objects are allocated and aged. A minor Garbage collection occurs when this fills up.
+>    - **Old or Tenured Generation** :this is where long surviving objects are stored. When objects are stored in the Young Generation, a threshold for the object's age is set, and when that threshold is reached, the object is moved to the old generation.
+>    - **Permanent Generation** : this consists of JVM metadata for the runtime classes and application methods.
+
+
 
 
 
