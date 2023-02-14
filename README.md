@@ -34,6 +34,22 @@ Before talking about difference between c++ and Java I will talk about plugin an
 > - Most of Cisco's UC apps are built on Java and products that support plugins or embedded code (like UCCX or CVP) often use Java as the plugin or embeddedable language.
 > - also there is  the java-based JTAPI library for low-level call control.
 
+## java heap and stack
+> ### Stack 
+> - Stack Memory in Java is used for static memory allocation and the execution of a thread.
+> - It contains primitive values that are specific to a method and references to objects referred from the method that are in a heap.
+> - Access to this memory is in Last-In-First-Out (LIFO) order. 
+> - Whenever we call a new method, a new block is created on top of the stack
+> - When the method finishes execution, its corresponding stack frame is flushed
+
+> ### key features
+> - grows and shrinks as new methods are called and returned, respectively.
+> - Variables inside the stack exist only as long as the method that created them is running.
+> - t's automatically allocated and deallocated when the method finishes execution.
+> - If this memory is full, Java throws java.lang.StackOverFlowError.
+> - Access to this memory is fast when compared to heap memory.
+> - This memory is threadsafe, as each thread operates in its own stack
+
 
 
 
