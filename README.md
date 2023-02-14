@@ -29,9 +29,11 @@ Before talking about difference between c++ and Java I will talk about plugin an
 >    - reduce the size of an application by not loading unused features
 >    - separate source code from an application because of incompatible software licenses.
 
+> - C and C++ are a bit lower level and more complex to use, they are generally only popular in systems programming or anywhere where high levels of optimization are important.
+> - When it comes to enterprise server-side software, Java is the most popular and widely used language by a wide margin. 
+> - Most of Cisco's UC apps are built on Java and products that support plugins or embedded code (like UCCX or CVP) often use Java as the plugin or embeddedable language.
+> - also there is  the java-based JTAPI library for low-level call control.
 
-- C and C++ are a bit lower level and more complex to use, they are generally only popular in systems programming or anywhere where high levels of optimization are important.
-- 
 
 
 
