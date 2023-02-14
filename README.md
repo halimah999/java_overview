@@ -15,7 +15,9 @@
 
 ### what is the difference between java and c++?
 Before talking about difference between c++ and Java I will talk about plugin and embedded system
-1. **embedded system:** Embedded systems are controllers that are handled using real-time operating systems. They are embedded in different devices such as smartphones, watches, cars, etc. to make them "smarter".
+1. **embedded system:** 
+An embedded system is a system in which the computer (generally a microcontroller or microprocessor) is included as an integral part of the system.<br>
+Embedded system is controllers that is handled using real-time operating systems. it is  embedded in different devices such as smartphones, watches, cars, etc. to make them "smarter".<br>
 embedded systems programming that is quite different than traditional programming as it requires low-level system access and as low usage of resources as possible.
 
 
