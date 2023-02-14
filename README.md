@@ -59,10 +59,11 @@ Before talking about difference between c++ and Java I will talk about plugin an
 >    - **Old or Tenured Generation** :this is where long surviving objects are stored. When objects are stored in the Young Generation, a threshold for the object's age is set, and when that threshold is reached, the object is moved to the old generation.
 >    - **Permanent Generation** : this consists of JVM metadata for the runtime classes and application methods.
 
+> ### key features
+> - It's accessed via complex memory management techniques that include the Young Generation, Old or Tenured Generation, and Permanent Generation.
+> - If heap space is full, Java throws java.lang.OutOfMemoryError.
+> - Access to this memory is comparatively slower than stack memory
+> - This memory, in contrast to stack, isn't automatically deallocated. It needs Garbage Collector to free up unused objects so as to keep the efficiency of the memory usage.
+> - Unlike stack, a heap isn't threadsafe and needs to be guarded by properly synchronizing the code
 
-
-
-
-
- 
 
