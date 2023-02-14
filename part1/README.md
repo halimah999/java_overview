@@ -15,14 +15,14 @@ The value and size of each type are shown in figure 1
 <br>
 <br>
 <div align="center" >
-    <img src="../../JavaCoding/3.png" style="display:block;text-align:center" width="600" height="300"/>
+    <img src="../JavaCoding/3.png" style="display:block;text-align:center" width="600" height="300"/>
 </div>
 <br><br>
 The comparing between 2 types is shown in figure 2
 <br>
 <br>
 <div align="center" >
-    <img src="../../JavaCoding/4.png" style="display:block;text-align:center" width="600" height="300"/>
+    <img src="../JavaCoding/4.png" style="display:block;text-align:center" width="600" height="300"/>
 </div>
 
 
