@@ -11,8 +11,8 @@
 - JRE contains a library and toolkits 
 - java virtual machine(jvm) (run java programs)
 - jvm translate code to machine code
- <img src="https://i1.wp.com/www.softwaretestingmaterial.com/wp-content/uploads/2018/03/JDK-JRE-JVM-Illustration.png?resize=461%2C440&ssl=1" width="400" height="400"/>
+<img src="https://i1.wp.com/www.softwaretestingmaterial.com/wp-content/uploads/2018/03/JDK-JRE-JVM-Illustration.png?resize=461%2C440&ssl=1" style="display:block;text-align:center" width="400" height="400"/>
 
- 
+
  
 
