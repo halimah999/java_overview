@@ -24,10 +24,10 @@ Before talking about difference between c++ and Java I will talk about plugin an
 > 2. **plugins system:** 
 >-  is a software component that adds a specific feature to an existing computer program. When a program supports plug-ins, it enables customization.
 >-  Applications may support plug-ins to:
-    - enable third-party developers to extend an application
-    - support easily adding new features
-    - reduce the size of an application by not loading unused features
-    - separate source code from an application because of incompatible software licenses.
+>    - enable third-party developers to extend an application
+>    - support easily adding new features
+>    - reduce the size of an application by not loading unused features
+>    - separate source code from an application because of incompatible software licenses.
 
 
 - C and C++ are a bit lower level and more complex to use, they are generally only popular in systems programming or anywhere where high levels of optimization are important.
