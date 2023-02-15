@@ -35,7 +35,7 @@ String[][] cars = 	{
 - store reference data types
 
 
-
+### Array *vs* ArrayList 
 | Array                                                                                                                                     | ArrayList                                                                                                                                                       |
 | ---------------------------------------------------------                                                                                 | ---------------------------------------------------------                                                                                                       |
 |  Length of Array is static that means one cannot change its length that has been already defined                                          | ArrayList uses the size() method to compute the size of the elements. Also, it is dynamic,                                                                      |
