@@ -51,3 +51,20 @@
 - When we declare a class as final, then we restrict other classes to inherit or extend it.
 
 - [read more](https://techvidvan.com/tutorials/java-final-keyword/)
+
+## 3. Object 
+- Instance of class that may contain attributes and methods.
+
+## 4. toString
+- toString():  A special method that all objects inherit, 
+- that returns a string that "textually represents" an object.
+- can be used both implicitly and explicitly
+
+## 5. static
+- static modifier. A single copy of a variable/method is created and shared.
+- The class "owns" the static member
+- If we declare any variable with the static keyword, then it is said to be a static variable.
+- When we declare a method as static, we can call this method or access this method without creating an object or instance of the class.
+- Declare a class as static; the condition being that the class should be a nested class.
+- The nested static class does not require an object of its Outer class. 
+- One more restriction with the nested static class is that it cannot access the non-static data members of the Outer class.

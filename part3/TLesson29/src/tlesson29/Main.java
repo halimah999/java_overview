@@ -14,6 +14,15 @@ public class Main {
 
 		
 		System.out.println(Friend.displayFriends());
+		
+
+	}
+	public class Boy{
+		String name;
+		 Boy(String name){
+			 this.name = name;
+		 }
+		
 	}
 }
 

@@ -5,7 +5,7 @@ package slesson24;
 public class Main {
 
 	public static void main(String[] args) {
-		//an object = instance of class that may contain attributes and method
+		//an object = instance of class that may contain attributes and methods
 		
 		Car myCar1 = new Car();
 		Car myCar2 = new Car();
