@@ -45,7 +45,7 @@ String[][] cars = 	{
 |  Functions such as indexOf() and remove() are not supported by Arrays in Java                                                             | Operations such as indexOf(), remove() are supported by ArrayList in Java                                                                                       |
 |                                                                                                                                           | In ArrayList, the actual objects or elements are never stored at contiguous locations whereas their References can be stored at contiguous locations.           |
 
-
+[read more] (https://www.geeksforgeeks.org/array-vs-arraylist-in-java/)
 
 ### wrapper class 
 - provides a way to use primitive data types as reference data types
